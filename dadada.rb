@@ -3,7 +3,7 @@ daaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 test tset kanekunisan
 
-test tset kanekunisan
+test tset kan
 test tset kanekunisan
 
 
