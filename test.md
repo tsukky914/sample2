@@ -1,4 +1,4 @@
-# 生田目君のRailsアプリについて
+# のRailsアプリについて
 
 ## 概要
 
@@ -24,4 +24,22 @@
 | 3  | mail            |          | string   | 256  |        |    |
 | 4  | password_digest |          | string   | 256  |        |    |
 | 5  | admin           |          | boolean  |      | FALSE  |    |
+
+```php
+echo "hogehoge";
+<html>
+    
+```
+
+```php+HTML
+<?php
+    echo "hogehoge";
+?>
+<html>
+</html>  
+```
+
+
+
+
 
